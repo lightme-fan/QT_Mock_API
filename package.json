@@ -1,0 +1,19 @@
+{
+  "name": "json-mock-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "cards": "json-server --watch src/cards.json -p 8080",
+    "correct_hint": "json-server --watch src/correct_hint.json -p 8081",
+    "hintSelection": "json-server --watch src/hint_selection.json -p 8082",
+    "games": "json-server --watch src/games.json -p 8083",
+    "rooms": "json-server --watch src/rooms.json -p 8084",
+    "players": "json-server --watch src/players.json -p 8085"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "json-server": "^0.17.0"
+  }
+}

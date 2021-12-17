@@ -1,0 +1,18 @@
+{
+    "answer": true,
+    "player_scores": [
+        {
+            "game_id": 355397,
+            "player_id": 500002,
+            "player_nickname": "Piyush",
+            "current_game_players_score": "78"
+        }
+    ],
+    "player_aggregate_scores": [
+        {
+            "player_id": 500002,
+            "player_nickname": "Piyush",
+            "aggregate_players_score": "77"
+        }
+    ]
+}

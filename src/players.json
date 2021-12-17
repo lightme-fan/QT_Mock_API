@@ -1,0 +1,40 @@
+ {
+    "rooms": [
+        {
+            "room_id": 10000001,
+            "room_name": "Onja",
+            "players": [
+                {
+                    "player_id": 500001,
+                    "player_nickname": "Piero",
+                    "is_host": true
+                },
+                {
+                    "player_id": 500002,
+                    "player_nickname": "Piyush",
+                    "is_host": null
+                },
+                {
+                    "player_id": 33,
+                    "player_nickname": "Paul",
+                    "is_host": null
+                },
+                {
+                    "player_id": 35,
+                    "player_nickname": "Mile",
+                    "is_host": null
+                },
+                {
+                    "player_id": 36,
+                    "player_nickname": "Fanilo",
+                    "is_host": null
+                },
+                {
+                    "player_id": 37,
+                    "player_nickname": "Berinary",
+                    "is_host": null
+                }
+            ]
+        }
+    ]
+ }

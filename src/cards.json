@@ -1,0 +1,62 @@
+[
+    {
+        "available_game_id": 1001,
+        "card_id": 8,
+        "clues": [
+            {
+                "clue_id": "201ed127-1624-95c2-8147-63d0c933f890",
+                "clue": "8 + 23"
+            },
+            {
+                "clue_id": "0b75ac71-922a-061d-e561-a32700b6fdb9",
+                "clue": "3 x 9"
+            },
+            {
+                "clue_id": "421497e0-488d-9fb6-b3ce-3615ffcc53a5",
+                "clue": "3 + 8"
+            },
+            {
+                "clue_id": "319130e9-f63c-81d0-97f2-1002a20eb6c0",
+                "clue": "3 + 13"
+            },
+            {
+                "clue_id": "7b868da2-97b2-566e-791a-fe6cab4aa142",
+                "clue": "2 + 4"
+            },
+            {
+                "clue_id": "826bf316-37b5-07e5-3050-d9a21a2aa40f",
+                "clue": "25 - 4"
+            }
+        ]
+    },
+    {
+        "available_game_id": 1001,
+        "card_id": 28,
+        "clues": [
+            {
+                "clue_id": "ae439d2d-2ef9-4af8-1380-2799d7d19fce",
+                "clue": "12 - 6"
+            },
+            {
+                "clue_id": "6d608d6d-a0f8-ac7a-fe78-1086b5a23c13",
+                "clue": "9 + 15"
+            },
+            {
+                "clue_id": "acaa4c28-a216-1139-d596-8267068e2876",
+                "clue": "20 + 8"
+            },
+            {
+                "clue_id": "66413738-de37-da77-6a11-7909f36ce709",
+                "clue": "28 - 14"
+            },
+            {
+                "clue_id": "29cd6a9b-c818-5b46-0a9e-5cb81a49cb41",
+                "clue": "6 + 4"
+            },
+            {
+                "clue_id": "d228bf42-b73f-b017-8bc9-e7cd8432fd24",
+                "clue": "30 + 5"
+            }
+        ]
+    }
+]

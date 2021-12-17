@@ -1,0 +1,22 @@
+{
+    "games": [
+        {
+            "available_game_id": 1001,
+            "available_game_name": "Numbers",
+            "available_game_description": "Are you an Arithmetic enthusiast? Try this fun game and keep your wits sharp over a friendly game",
+            "available_game_image_url": "https://quick-think-images.s3.amazonaws.com/numbers-front.png"
+        },
+        {
+            "available_game_id": 2001,
+            "available_game_name": "Words",
+            "available_game_description": "Test your knowledge of the language by comparing similar words and finding the best matches",
+            "available_game_image_url": "https://quick-think-images.s3.amazonaws.com/words-front.png"
+        },
+        {
+            "available_game_id": 3001,
+            "available_game_name": "Countries",
+            "available_game_description": "This is for you, world travel junkies. Do you know about these places, attractions, people and countries?",
+            "available_game_image_url": "https://quick-think-images.s3.amazonaws.com/countries-front.png"
+        }
+    ]
+}
